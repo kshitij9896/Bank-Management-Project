@@ -4,7 +4,7 @@
 #include<fstream.h>
 #include<string.h>
 #include<dos.h>
-#include"pwdtry.cpp"
+//#include"pwdtry.cpp"
 class login
 {
   protected:

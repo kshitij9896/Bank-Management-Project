@@ -12,7 +12,7 @@
 #include<time.h>
 #include<string.h>
 #include"log.cpp"
-#include"main.cpp"
+//#include"main.cpp"
 
 
 
