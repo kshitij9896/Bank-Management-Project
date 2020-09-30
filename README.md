@@ -16,7 +16,9 @@ Firstly Open The Project
 • Open BANKINGM.cpp File & Run the file
 
 • At The Login Page 
+   
    Enter Username : kshitij
+
    Enter Password : 9896
 
 • Select The Options Between 1 to 9
